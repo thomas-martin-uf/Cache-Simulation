@@ -13,5 +13,8 @@ It translates memory addresses into cache indices, tags, and offsets.
 It simulates cache access for each memory address and determines whether it's a hit or a miss.
 Hit rates are calculated based on the number of hits and misses recorded during simulation.
 
+## Screencast
+[Project Walkthrough](https://youtu.be/dQrf8KKgS5c)
+
 ## Screenshot
 ![image](https://github.com/thomas-martin-uf/Cache-Simulation/assets/109101463/0ea04b73-df8c-415f-8527-db96fe0e46aa)
